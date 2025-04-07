@@ -5,7 +5,7 @@
 
 A modern e-commerce application featuring real-time inventory updates across users. Built with Next.js 15, Tailwind CSS, and Redux, backed by a Node.js/Express API with WebSocket integration.
 
-[App Screenshot](https://raw.githubusercontent.com/rushit-kakadiya/ecommerce-realtime/refs/heads/main/screenshot.png)
+![App Screenshot](https://raw.githubusercontent.com/rushit-kakadiya/ecommerce-realtime/refs/heads/main/screenshot.png)
 
 ## Features
 
