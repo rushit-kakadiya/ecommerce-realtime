@@ -1,4 +1,3 @@
-````markdown
 # E-Commerce Platform with Real-Time Inventory
 
 [![Live Demo](https://img.shields.io/badge/demo-live-brightgreen)](https://ecommerce-frontend-kappa-eight.vercel.app/)
@@ -6,7 +5,7 @@
 
 A modern e-commerce application featuring real-time inventory updates across users. Built with Next.js 15, Tailwind CSS, and Redux, backed by a Node.js/Express API with WebSocket integration.
 
-![App Screenshot](./screenshot.png)
+[App Screenshot](https://raw.githubusercontent.com/rushit-kakadiya/ecommerce-realtime/refs/heads/main/screenshot.png)
 
 ## Features
 
@@ -57,7 +56,6 @@ A modern e-commerce application featuring real-time inventory updates across use
 git clone https://github.com/rushit-kakadiya/ecommerce-realtime.git
 cd ecommerce-realtime
 ```
-````
 
 2. Install dependencies
 
