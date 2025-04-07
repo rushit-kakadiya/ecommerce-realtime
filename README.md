@@ -61,11 +61,11 @@ cd ecommerce-realtime
 
 ```bash
 # Frontend
-cd src/frontend
+cd frontend
 npm install
 
 # Backend
-cd ../backend
+cd backend
 npm install
 ```
 
