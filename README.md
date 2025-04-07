@@ -86,11 +86,11 @@ PORT=3001
 
 ```bash
 # Start backend
-cd src/backend
+cd backend
 npm run dev
 
 # Start frontend (in separate terminal)
-cd src/frontend
+cd frontend
 npm run dev
 ```
 
